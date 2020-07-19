@@ -175,3 +175,15 @@
 ul{
   padding-left: 50px;
 }
+
+.navbartext{
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.bodytext{
+  font-family: 'Lora', serif;
+}
+
+.footertext{
+  font-family: 'Acme', sans-serif;
+}
